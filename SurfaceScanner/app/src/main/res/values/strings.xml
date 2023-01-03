@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Surface Scanner</string>
+    <string name="logo_description">Surface Scanner Logo</string>
+
+    <string name="lets_scan">Let\'s Scan!</string>
+
+    <string name="developed_by_title">Developed By</string>
+    <string name="developed_by_sajjad">Sajjad Gandom</string>
+    <string name="developed_by_alireza">Alireza Tavakoli</string>
+    <string name="developed_by_kaveh">Kaveh Masoumi</string>
+    <string name="developed_by_erfan">Erfan Razzaghi</string>
+
+    <string name="scan">Scan</string>
+    <string name="scan_hint_text">To scan the surface,\nput your phone on the ground and tap the start button.\nThen start scanning from left to right.</string>
+
+    <string name="scan_started">Scan started.</string>
+    <string name="scan_stopped">Scan stopped.</string>
+
+    <string name="accelerometer_title">Accelerometer</string>
+    <string name="gyroscope_title">Gyroscope</string>
+    <string name="x_axis">x:</string>
+    <string name="y_axis">y:</string>
+    <string name="z_axis">z:</string>
+    <string name="zero">0</string>
+
+    <string name="chart_empty">Start scanning first.</string>
+</resources>
